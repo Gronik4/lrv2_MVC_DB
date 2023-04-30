@@ -1,0 +1,17 @@
+{
+    "name": "gronw/lrv2_mvc_db",
+    "description": "фреймворк Laravel - MVC и базы данных",
+    "autoload": {
+        "psr-4": {
+            "Gronw\\Lrv2MvcDb\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gronik4",
+            "email": "golegni@yandex.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
